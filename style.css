@@ -286,7 +286,9 @@ section {
 .about-pic {
   border-radius: 2rem;
 }
-
+.about-pic img {
+  width: 200px;
+}
 .arrow {
   position: absolute;
   right: -5rem;
